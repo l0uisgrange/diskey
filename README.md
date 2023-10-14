@@ -16,7 +16,7 @@ So I made a simple PDF generator with it's own language, Diskey 🎉🥏.
 
 ## Gettings started
 
-All you need to do is download the latest version. There is no need to install TeX, LaTeX or any other software.
+All you need to do is download the [latest version](https://github.com/l0uisgrange/diskey/releases/latest/) ⚡️. There is no need to install TeX, LaTeX or any other software.
 
 ### Requirements
 
@@ -46,4 +46,4 @@ I will then review your contribution and include it in the next release!
 <img width="30" src="https://github.com/l0uisgrange/diskey/assets/70532216/6788c1fd-e2da-4281-a48d-4b62c93b126d">
 </div>
 
-This project is distributed under the CC BY-NC-ND 4.0 license. The full license is available on the [Creative Common](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.en) website.
+This project is distributed under the CC BY-NC-ND 4.0 license ⚖️. The full license is available on the [Creative Common](https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode.en) website.
