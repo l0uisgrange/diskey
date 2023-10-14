@@ -13,3 +13,28 @@ We don't have to lie, LaTeX sucks 🤮.
 3. To install LaTeX on your laptop, you have to do it the old way.
 
 So I made a simple PDF generator with it's own language, Diskey 🎉🥏. 
+
+## Gettings started
+
+All you need to do is download the latest version. There is no need to install TeX, LaTeX or any other software.
+
+### Requirements
+
+Diskey requires macOS Sonoma 14.0+, and works in the following languages :
+- 🇫🇷 French
+- 🇬🇧 English
+- 🇮🇹 Italian
+- 🇩🇪 German
+
+## Contributing
+
+Contributions 🫡 are what make the open source community such an amazing place ⭐️ to learn, inspire, and create. Every contribution you make is **greatly appreciated**.
+1. Fork the project
+2. Create your feature branch
+3. Commit your changes
+4. Push to the branch
+5. Open a pull request
+
+I will then review your contribution and include it in the next release!
+
+## License
