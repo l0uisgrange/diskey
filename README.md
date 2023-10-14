@@ -2,9 +2,10 @@
 ![](https://img.shields.io/github/v/release/l0uisgrange/diskey)
 ![](https://img.shields.io/github/issues/l0uisgrange/diskey)
 
-<img src="https://github.com/l0uisgrange/diskey/assets/70532216/aeaa9c18-a214-46b9-a7ea-c59d44256931" width="100">
+<img src="https://github.com/l0uisgrange/diskey/assets/70532216/aeaa9c18-a214-46b9-a7ea-c59d44256931" align="left" width="45">
 
-# Diskey PDF generator
+# Diskey
+
 We don't have to lie, LaTeX sucks 🤮.
 
 1. You have to install a library for everything you want to do.
