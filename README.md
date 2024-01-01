@@ -1,10 +1,11 @@
-![](https://img.shields.io/github/downloads/l0uisgrange/diskey/total)
-![](https://img.shields.io/github/v/release/l0uisgrange/diskey)
+![](https://img.shields.io/github/downloads/l0uisgrange/diskey/total?color=blue)
+![](https://img.shields.io/github/v/release/l0uisgrange/diskey?label=production)
+![](https://img.shields.io/github/v/tag/l0uisgrange/diskey?label=development)
 ![](https://img.shields.io/github/issues/l0uisgrange/diskey)
 
 <img src="https://github.com/l0uisgrange/diskey/assets/70532216/aeaa9c18-a214-46b9-a7ea-c59d44256931" align="left" width="45">
 
-# Diskey
+# Diskey TeX editor
 
 We don't have to lie, LaTeX sucks 🤮.
 
